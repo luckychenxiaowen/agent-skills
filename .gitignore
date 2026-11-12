@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+**/config/accounts.json
+**/wechat_baseline.json
+**/Cookies
+**/Cookies-journal
+*.zip
+*.exe
+*.dll
+*.log
+*.pyc
+node_modules/
+__pycache__/
+.DS_Store
+.idea/
+.vscode/
